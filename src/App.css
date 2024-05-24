@@ -1,6 +1,37 @@
 .App {
   font-family: "Cardo", serif;
-  font-weight: 400;
+  /* font-weight: lighter; */
   font-style: normal;
   background-color: #F7F7F7;
+}
+/* Figma font size: 64 */
+h1{
+  font-size: 64px;
+  font-weight: lighter;
+  color: #313F63;
+}
+/* Figma font size: 48 */
+h2{
+  font-size: 48px;
+  font-weight: lighter;
+}
+/* Figma font size: 40 */
+h3{
+  font-size: 40px;
+  font-weight: lighter;
+}
+/* Figma font size: 32 */
+h4{
+  font-size: 32px;
+  font-weight: lighter;
+}
+/* Figma font size: 24 */
+h5{
+  font-size: 24px;
+  font-weight: lighter;
+}
+/* Figma font size: 20 */
+h6{
+  font-size: 20px;
+  font-weight: lighter;
 }

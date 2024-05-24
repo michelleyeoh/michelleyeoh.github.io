@@ -1,0 +1,22 @@
+.rectangle {
+    background-color:rgb(208, 208, 208);
+    padding: 40px;
+    width: 80%;
+    display:flex;
+    flex-direction:row;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+    border-radius:10px;
+}
+.column{
+    text-align: left;
+    width: 40%;
+}
+.link{
+    color: #827057;
+    text-decoration: none;
+}
+.link:hover{
+    text-decoration: underline;
+}

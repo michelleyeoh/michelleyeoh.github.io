@@ -9,14 +9,11 @@ function App() {
   return (
     <div className='App'>
       <Header/>
-      <Router>
         <Routes>
           <Route exact path ="/" Component={Technical}/>
           <Route exact path ="/technical" Component={Technical}/>
           <Route exact path ="/design" Component={Design}/>
         </Routes>
-      </Router>
-
       <Footer/>
     </div>
   );

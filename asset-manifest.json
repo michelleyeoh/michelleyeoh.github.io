@@ -1,13 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.dc4d6ff2.css",
-    "main.js": "/static/js/main.e10f591f.js",
+    "main.css": "/static/css/main.f3e4141d.css",
+    "main.js": "/static/js/main.237acab1.js",
+    "static/media/jass_landing.png": "/static/media/jass_landing.8a2588ba12c73c478729.png",
+    "static/media/scrapbook.png": "/static/media/scrapbook.be8a5c77d3d5b7926e3a.png",
+    "static/media/minion_landing.png": "/static/media/minion_landing.23e9ad94cfaced7b2ed3.png",
+    "static/media/lockinoclock_landing.png": "/static/media/lockinoclock_landing.7b59249f1b55d3069883.png",
+    "static/media/deca_landing.png": "/static/media/deca_landing.429c0eecfec9da073fd2.png",
+    "static/media/timeseries_landing.png": "/static/media/timeseries_landing.4c2685454da6b98b53ad.png",
+    "static/media/campusconnect_landing.png": "/static/media/campusconnect_landing.040248bd45a56ec63c8b.png",
+    "static/media/gelsigns.png": "/static/media/gelsigns.1cc5e80a0949337a8457.png",
+    "static/media/videos.png": "/static/media/videos.c3005df6c51689a80c32.png",
+    "static/media/studypaws.png": "/static/media/studypaws.3df964347513da6150db.png",
     "index.html": "/index.html",
-    "main.dc4d6ff2.css.map": "/static/css/main.dc4d6ff2.css.map",
-    "main.e10f591f.js.map": "/static/js/main.e10f591f.js.map"
+    "main.f3e4141d.css.map": "/static/css/main.f3e4141d.css.map",
+    "main.237acab1.js.map": "/static/js/main.237acab1.js.map"
   },
   "entrypoints": [
-    "static/css/main.dc4d6ff2.css",
-    "static/js/main.e10f591f.js"
+    "static/css/main.f3e4141d.css",
+    "static/js/main.237acab1.js"
   ]
 }

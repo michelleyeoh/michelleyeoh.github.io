@@ -1,5 +1,5 @@
 .rectangle {
-    background-color:rgb(208, 208, 208);
+    background-color: #EBEBEB;
     padding: 40px;
     width: 80%;
     display:flex;
@@ -11,11 +11,13 @@
 }
 .column{
     text-align: left;
+    line-height: 15px;
     width: 40%;
 }
 .link{
     color: #827057;
     text-decoration: none;
+    line-height: 30px;
 }
 .link:hover{
     text-decoration: underline;

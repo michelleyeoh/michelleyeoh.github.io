@@ -12,7 +12,7 @@ export function ProjectCard({title, description, time, tool, linkUrl, linkTitle,
                 <Link to={linkUrl} className="link">{linkTitle}</Link>
             </div>
             <div className="column">
-                <img src={img} alt={img} width={'400px'}/>
+                <img src={img} alt={img} height={'250px'}/>
             </div>
         </div>
     )

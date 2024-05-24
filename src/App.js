@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Header from './components/header';
 import Footer from './components/footer';
 import Technical from './components/technical';
+import Design from './components/design';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
         <Routes>
           <Route exact path ="/" Component={Technical}/>
           <Route exact path ="/technical" Component={Technical}/>
+          <Route exact path ="/design" Component={Design}/>
         </Routes>
       </Router>
 

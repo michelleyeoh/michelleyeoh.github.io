@@ -11,8 +11,8 @@ export default function Technical(){
     return(
         <technical className="technical">
             <Landing/>
-            <div className="home" id="technical">
-                <h2>Explore my Projects</h2>
+            <div className="home">
+                <h2 id="technical">Explore my Projects</h2>
                 <ProjectCard title={"JASS"} description={"#include Technical Cohort"} time={"March 2024 - Present"} tool={"React.js + Next.js"} img={jass_landing} linkTitle={"In Progress"}/>
                 <ProjectCard title={"DECA at UC Davis"} description={"Web Developer"} time={"March 2024 - Present"} tool={"React.js + Node.js"} img={deca_landing} linkTitle={"View GitHub →"} linkUrl={"https://github.com/sohamk0524/DECA-information-website"}/>
                 <ProjectCard title={"Campus Connect"} description={"48 Hour Hackathon"} time={"April 2024"} tool={"React.js, Node.js, Firebase, mySQL, Sequelize, Express.js"} img={campusconnect_landing} linkTitle={"View Devpost →"} linkUrl={"https://devpost.com/software/campusconnect-orenh0"}/>

@@ -14,7 +14,8 @@ export default function About(){
                 <h6>During my free time like to spend time outside, taking photos and going on runs. I am also a big fan of Korean music, so I will always be found listening to music or having a concert in my room…</h6>
                 <br/>
 
-                <h3>Links</h3>
+                {/* <h3>Links</h3> */}
+
             </div>
             <div className="rightCol">
                 <h3>My Values</h3>

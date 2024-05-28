@@ -27,7 +27,7 @@ export default function About(){
 
                 <h3>Recent Experiences</h3>
                 <h6><strong>Technical Cohort</strong> at #include<br/><i>January 2024 - Present</i></h6>
-                <h6><strong>Instructor</strong> at The LEAGUE of Amazing Programmers<br/><i>May 2024 - Present</i></h6>
+                {/* <h6><strong>Instructor</strong> at The LEAGUE of Amazing Programmers<br/><i>May 2024 - Present</i></h6> */}
                 <h6><strong>DI Fellowship</strong> at Davis Design Interactive<br/><i>April - May 2024</i></h6>
             </div>
         </div>

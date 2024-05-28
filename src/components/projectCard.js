@@ -10,7 +10,7 @@ export function ProjectCard({title, description, time, tool, linkUrl, linkTitle,
                 <p>{time}</p>
                 <p>{tool}</p>
                 <br/>
-                <Link to={linkUrl} className="link">{linkTitle}</Link>
+                <Link to={linkUrl} target={"_blank"} className="link">{linkTitle}</Link>
                 <br/>
                 <Link to={linkUrl2} target={"_blank"} className="link">{linkTitle2}</Link>
             </div>

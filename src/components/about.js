@@ -3,7 +3,7 @@ import myeoh_profile from '../images/myeoh_profile.png'
 
 export default function About(){
     return(
-        <div className="about">
+        <div className="about" id="about">
         <div className="box">
             <div className="leftCol">
                 <img src={myeoh_profile} alt="myeoh_profile" width={'250px'}/>

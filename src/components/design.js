@@ -9,7 +9,7 @@ import videos from '../images/videos.png'
 
 export default function Design(){
     return(
-        <design className="design">
+        <design className="design" id="design">
             <h2>My Other Creative Outlet</h2>
             <ProjectCard title={"Study Paws"} description={"3-Week Design Sprint"} time={"April - May 2024"} tool={"Figma"} img={studypaws} linkTitle={"View Presentation →"} linkUrl={"https://docs.google.com/presentation/d/1B5F9787XCpr1xkZUSlaRgM72OGnxXgTO/edit?usp=drive_link"}/>
             <ProjectCard title={"Lock In O'Clock"} description={"24 Hour Hackathon"} time={"April 2024"} tool={"Figma, React.js, Node.js"} img={lockinoclock_landing} linkTitle={"View Devpost →"} linkUrl={"https://devpost.com/software/lock-in-o-clock"}/>

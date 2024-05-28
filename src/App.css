@@ -4,6 +4,7 @@
   font-style: normal;
   background-color: #F7F7F7;
 }
+html { scroll-behavior: smooth; }
 /* Figma font size: 64 */
 h1{
   font-size: 61px;

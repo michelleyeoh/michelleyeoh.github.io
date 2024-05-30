@@ -5,7 +5,7 @@ export function ProjectCard({title, description, time, tool, linkUrl, linkTitle,
     return(
         <div className="rectangle">
             <div className="column">
-                <h1 style={{lineHeight:'70px'}}>{title}</h1>
+                <h1>{title}</h1>
                 <p>{description}</p>
                 <p>{time}</p>
                 <p>{tool}</p>

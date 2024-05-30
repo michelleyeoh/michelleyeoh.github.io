@@ -10,23 +10,38 @@ h1{
   font-size: 61px;
   font-weight: lighter;
   color: #313F63;
+  line-height: 70px;
+  @media screen and (max-width: 767px){
+    font-size: 40px;
+    line-height: 50px;
+  }
 }
 /* Figma font size: 48 */
 h2{
   font-size: 45px;
   font-weight: lighter;
   color: #313F63;
+  @media screen and (max-width: 767px){
+    font-size: 30px;
+  }
 }
 /* Figma font size: 40 */
 h3{
   font-size: 37px;
   font-weight: lighter;
   color: #313F63;
+  @media screen and (max-width: 767px){
+    /* font-size: 20px; */
+  }
 }
 /* Figma font size: 32 */
 h4{
   font-size: 29px;
   font-weight: lighter;
+  @media screen and (max-width: 767px){
+    font-size: 20px;
+    line-height: 10px;
+  }
 }
 /* Figma font size: 24 */
 h5{
@@ -37,4 +52,9 @@ h5{
 h6{
   font-size: 17px;
   font-weight: lighter;
+}
+p {
+  @media screen and (max-width: 767px){
+    line-height: 2px;
+  }
 }

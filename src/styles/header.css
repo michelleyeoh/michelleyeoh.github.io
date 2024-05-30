@@ -1,6 +1,7 @@
 .header {
     text-align: center;
-    padding: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
     position: fixed;
     top:0;
     overflow: hidden;
@@ -9,7 +10,7 @@
     opacity: 90%;
 }
 nav a{
-    margin: 0 10px;
+    margin: 10px;
     text-decoration: none;
     color: black;
 }

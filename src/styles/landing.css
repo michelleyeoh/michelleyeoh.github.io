@@ -1,4 +1,8 @@
 .landing{
     margin-top: 165px;
     margin-bottom: 165px;
+    @media screen and (max-width:767px){
+        margin-top: 80px;
+        margin-bottom: 80px;
+    }
 }

@@ -27,7 +27,7 @@
         align-content: center;
         flex-direction: column;
         img{
-            display: none;
+            /* display: none; */
         }
     }
     @media screen and (max-width: 1048px) {

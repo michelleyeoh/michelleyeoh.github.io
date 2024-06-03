@@ -12,9 +12,9 @@ export default function About(){
                 <img src={myeoh_profile} alt="myeoh_profile" width={'250px'}/>
                 <h3>About Me</h3>
                 <h6>Hello, I’m Michelle!</h6>
-                <h6>I am a first-year at UC Davis with goals to pursue a career in software development. I am currently majoring in computer science, with a minor in technology management. </h6>
-                <h6>In addition to computer science, I also have a passion for UI/UX design. Sparked by my creative background in graphic design, I have been exploring web and mobile design.</h6>
-                <h6>During my free time like to spend time outside taking photos, studying at cafes, and going on runs. I am also a big fan of Korean music, so I will always be found listening to music or having a concert in my room…</h6>
+                <h6>I am a first-year at UC Davis with goals to pursue a career in software development. I am currently majoring in <strong>computer science</strong>, with a minor in technology management. </h6>
+                <h6>In addition to computer science, I also have a passion for <strong>UI/UX design</strong>. Sparked by my creative background in graphic design, I have been exploring web and mobile design.</h6>
+                <h6>During my free time I like to spend time outside taking <strong>photos</strong>, studying at <strong>cafes</strong>, and going on <strong>runs</strong>. I am also a big fan of Korean music, so I will always be found listening to music or having a concert in my room…</h6>
                 <br/>
             </div>
             <div className="rightCol">

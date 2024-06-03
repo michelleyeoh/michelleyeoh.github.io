@@ -7,15 +7,15 @@ export function ProjectCard({title, description, time, tool, linkUrl, linkTitle,
             <div className="column">
                 <h1>{title}</h1>
                 <p>{description}</p>
-                <p>{time}</p>
-                <p>{tool}</p>
+                {/* <p>{time}</p> */}
+                <p style={{color:'#313F63'}}>{tool}</p>
                 <br/>
                 <Link to={linkUrl} target={"_blank"} className="link">{linkTitle}</Link>
                 <br/>
                 <Link to={linkUrl2} target={"_blank"} className="link">{linkTitle2}</Link>
             </div>
             <div className="column">
-                <img src={img} alt={img} height={'250px'}/>
+                <img src={img} alt={img}/>
             </div>
         </div>
     )

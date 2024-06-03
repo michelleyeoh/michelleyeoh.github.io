@@ -1,8 +1,12 @@
 .landing{
     margin-top: 165px;
     margin-bottom: 165px;
-    @media screen and (max-width:767px){
+    @media screen and (max-width:768px){
         margin-top: 80px;
         margin-bottom: 80px;
+    }
+    @media screen and (min-width: 1024px) {
+        margin-top: 250px;
+        margin-bottom: 250px;
     }
 }

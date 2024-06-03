@@ -5,7 +5,7 @@
   background-color: #F7F7F7;
 }
 html { scroll-behavior: smooth; }
-/* Figma font size: 64 */
+
 h1{
   font-size: 61px;
   font-weight: lighter;
@@ -14,39 +14,41 @@ h1{
     font-size: 50px;
   }
 }
-/* Figma font size: 48 */
+
 h2{
   font-size: 45px;
   font-weight: lighter;
-  color: #313F63;
+  color: #827057;
   @media screen and (max-width: 768px){
     font-size: 30px;
   }
 }
-/* Figma font size: 40 */
+
 h3{
   font-size: 37px;
   font-weight: lighter;
   color: #313F63;
+  @media screen and (max-width: 768px){
+    font-size: 27px;
+  }
 }
-/* Figma font size: 32 */
-/* used for communication, balance */
+
 h4{
   font-size: 29px;
   font-weight: lighter;
-  line-height: 12px;
+  /* line-height: 12px; */
   @media screen and (max-width: 767px){
-    font-size: 25px;
-    line-height: 10px;
+    font-size: 23px;
+    /* line-height: 10px; */
   }
 }
-/* Figma font size: 24 */
+
 h5{
   font-size: 21px;
   font-weight: lighter;
 }
-/* Figma font size: 20 */
+
 h6{
-  font-size: 17px;
+  font-size: 16px;
   font-weight: lighter;
 }

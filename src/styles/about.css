@@ -12,6 +12,9 @@
     align-items: center; 
     @media screen and (max-width:768px){
         flex-direction:column;
+        img{
+            height: 170px;
+        }
     }
     @media screen and (min-width: 1024px) {
         width: 70%;
@@ -21,6 +24,9 @@
     }
     @media screen and (min-width: 2560px) {
         width: 31%;
+    }
+    img{
+        max-height: 250px;
     }
 }
 .leftCol{

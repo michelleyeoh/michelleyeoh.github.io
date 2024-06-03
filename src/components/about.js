@@ -9,8 +9,8 @@ export default function About(){
         <div className="about" id="about">
         <div className="box">
             <div className="leftCol">
-                <img src={myeoh_profile} alt="myeoh_profile" width={'250px'}/>
-                <h3>About Me</h3>
+                <img src={myeoh_profile} alt="myeoh_profile"/>
+                <h2>About Me</h2>
                 <h6>Hello, I’m Michelle!</h6>
                 <h6>I am a first-year at UC Davis with goals to pursue a career in software development. I am currently majoring in <strong>computer science</strong>, with a minor in technology management. </h6>
                 <h6>In addition to computer science, I also have a passion for <strong>UI/UX design</strong>. Sparked by my creative background in graphic design, I have been exploring web and mobile design.</h6>
@@ -20,9 +20,11 @@ export default function About(){
             <div className="rightCol">
                 <h3>My Values</h3>
                 <h4>💬 Communication</h4>
-                <h6>Without communication, there is no team. Being transparent with one another allows a collaborative environment where growth and knowledge can foster.</h6>
+                <h6>Being transparent with one another allows a collaborative environment where growth and knowledge can foster.</h6>
+                <h4>👥 Collaboration</h4>
+                <h6>Working and learning with others is beneficial towards the educational journey.</h6>
                 <h4>⚖️ Balance</h4>
-                <h6>Just like in nature, balance should also be reflected in other aspects: Work life, mental health, physical health balance, + more. Finding a way to alleviate stress is important when navigating through challenging times.</h6>
+                <h6>Finding a way to alleviate stress is important when navigating through challenging times.</h6>
                 <br/>
 
                 <h3>Recent Experiences</h3>

@@ -3,9 +3,9 @@ import Typewriter from '../Typewriter';
 
 export function Landing(){
     const textArray = [
-        "Hello!",
-        "I'm Michelle Yeoh,",
-        "a CS Student at UC Davis."
+        "Hello! 👋",
+        "I'm Michelle Yeoh.",
+        "Aspiring Software/Web Developer."
     ]
     return(
         <div className="landing">

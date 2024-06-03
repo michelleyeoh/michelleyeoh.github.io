@@ -1,57 +1,27 @@
 .rectangle {
-    background-color: #EBEBEB;
-    padding: 40px;
-    width: 60%;
+    /* background-color: #EBEBEB; */
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 40px;
+    max-width: 400px;
     display:flex;
-    flex-direction:row;
+    flex-direction:column;
     justify-content: center;
     align-items: center;
-    margin: 50px;
+    margin: 30px;
     border-radius:10px;
-    box-shadow: 1px 1px 10px 1px grey;
+    /* box-shadow: 1px 1px 10px 1px grey; */
     @media screen and (max-width: 768px) {
         flex-direction: column;
-    }
-    @media screen and (min-width: 1024px) {
-        width: 70%;
-    }
-    @media screen and (min-width: 1440px) {
-        width: 57%;
-    }
-    @media screen and (min-width: 2000px) {
-        width: 49%;
-    }
-    @media screen and (min-width: 2560px) {
-        width: 34%;
+        img{
+            height: 170px;
+        }
     }
     img{
         max-height: 250px;
-
     }
 }
-.column{
-    text-align: left;
-    width: 45%;
-    @media screen and (max-width: 768px){
-        display: flex;
-        width: 100%;
-        text-align: left;
-        align-content: center;
-        flex-direction: column;
-    }
-    @media screen and (max-width: 1024px) {
-        display: flex;
-        width: 100%;
-        text-align: left;
-        align-content: center;
-        flex-direction: column;
-    }
-    
-}
-.link{
-    color: #827057;
-    text-decoration: none;
-}
-.link:hover{
-    text-decoration: underline;
+.hover:hover{
+    opacity:50%;
+    content: attr(title);
 }

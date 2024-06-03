@@ -4,19 +4,10 @@ import { Link } from "react-router-dom"
 export function ProjectCard({title, description, time, tool, linkUrl, linkTitle, linkUrl2, linkTitle2, img}){
     return(
         <div className="rectangle">
-            <div className="column">
-                <h1>{title}</h1>
-                <p>{description}</p>
-                {/* <p>{time}</p> */}
-                <p style={{color:'#313F63'}}>{tool}</p>
-                <br/>
-                <Link to={linkUrl} target={"_blank"} className="link">{linkTitle}</Link>
-                <br/>
-                <Link to={linkUrl2} target={"_blank"} className="link">{linkTitle2}</Link>
+            <div>
+                <Link to={linkUrl} target={"_blank"} className="hover" title="Click To Learn More"><img src={img} alt={img}/></Link>
             </div>
-            <div className="column">
-                <img src={img} alt={img}/>
-            </div>
+            <h4><div style={{color: '#313F63'}}>{title}</div>{description}</h4>
         </div>
     )
 }

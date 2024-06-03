@@ -3,7 +3,7 @@ import "../styles/footer.css"
 export default function Footer(){
     return(
         <footer className="footer">
-            <p>designed & coded with 💙+☕</p>
+            <h6>designed & coded with 💙+☕</h6>
         </footer>
     )
 }

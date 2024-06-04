@@ -2,13 +2,13 @@
     /* background-color: #EBEBEB; */
     padding-left: 40px;
     padding-right: 40px;
-    padding-top: 40px;
+    padding-top: 10px;
     max-width: 400px;
     display:flex;
     flex-direction:column;
-    justify-content: center;
+    /* justify-content: center; */
     align-items: center;
-    margin: 30px;
+    margin: 0px;
     border-radius:10px;
     /* box-shadow: 1px 1px 10px 1px grey; */
     @media screen and (max-width: 768px) {

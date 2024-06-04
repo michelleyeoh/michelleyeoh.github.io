@@ -4,7 +4,13 @@
   font-style: normal;
   background-color: #F7F7F7;
 }
-html { scroll-behavior: smooth; }
+html {
+  scroll-behavior: smooth;
+}
+body {
+  margin: 0;
+  padding: 0;
+}  
 
 h1{
   font-size: 61px;

@@ -1,13 +1,12 @@
 .header {
     text-align: center;
-    padding-top: 30px;
-    padding-bottom: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     position: fixed;
     top:0;
     overflow: hidden;
     width: 100%;
-    background-color: #F7F7F7;
-    opacity: 90%;
+    background-color: rgba(247, 247, 0247, .3)
 }
 nav a{
     margin: 10px;

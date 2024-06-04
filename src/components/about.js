@@ -20,11 +20,11 @@ export default function About(){
             <div className="rightCol">
                 <h3>My Values</h3>
                 <h4>💬 Communication</h4>
-                <h6>Being transparent with one another allows a collaborative environment where growth and knowledge can foster.</h6>
+                <h6>Transparency fosters a collaborative environment of growing knowledge.</h6>
                 <h4>👥 Collaboration</h4>
-                <h6>Working and learning with others is beneficial towards the educational journey.</h6>
+                <h6>Learning with and from one another.</h6>
                 <h4>⚖️ Balance</h4>
-                <h6>Finding a way to alleviate stress is important when navigating through challenging times.</h6>
+                <h6>Finding a way to alleviate stress when navigating through challenging times.</h6>
                 <br/>
 
                 <h3>Recent Experiences</h3>

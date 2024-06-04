@@ -28,11 +28,11 @@ export default function Technical(){
             <br id="design"/>
             <h2>My Creative Outlet</h2>
             <div className="cardGroup">
-                <ProjectCard title={"Study Paws"} description={"Mobile study application that meets the needs of a college student."} tool={"Figma"} img={studypaws} linkTitle={"View Presentation ↗"} linkUrl={"https://docs.google.com/presentation/d/1B5F9787XCpr1xkZUSlaRgM72OGnxXgTO/edit?usp=drive_link"}/>
-                <ProjectCard title={"Graphic Design"} description={"Designing personalized logos for clients."} tool={"Procreate, Adobe Illustrator"} img={gelsigns} linkTitle={"View Logo Designs ↗"} linkUrl={"https://www.instagram.com/gelsigns"}/>
+                <ProjectCard title={"Study Paws"} description={"Study application motivating consistent study habits."} tool={"Figma"} img={studypaws} linkTitle={"View Presentation ↗"} linkUrl={"https://docs.google.com/presentation/d/1B5F9787XCpr1xkZUSlaRgM72OGnxXgTO/edit?usp=drive_link"}/>
+                <ProjectCard title={"Graphic Design"} description={"Drawing personalized logos for users."} tool={"Procreate, Adobe Illustrator"} img={gelsigns} linkTitle={"View Logo Designs ↗"} linkUrl={"https://www.instagram.com/gelsigns"}/>
             </div>
             <div className="cardGroup">
-                <ProjectCard title={"Photo Journaling"} description={"Documenting moments through creative journal entries."} tool={"Pen, Paper, Stickers"} img={scrapbook}/>
+                <ProjectCard title={"Photo Journaling"} description={"Documenting moments through journal entries."} tool={"Pen, Paper, Stickers"} img={scrapbook}/>
             </div>
             {/* <ProjectCard title={"Lock In O'Clock"} description={"A web application for students to find their most compatible study buddy."} tool={"Figma, React.js, Node.js"} img={lockinoclock_landing} linkTitle={"View Devpost ↗"} linkUrl={"https://devpost.com/software/lock-in-o-clock"}/> */}
         </technical>

@@ -7,7 +7,7 @@ export function Landing() {
     const textArray = [
         { text: "Hello! 👋", style: { color: '#827057' } },
         { text: "I'm Michelle Yeoh.", style: { color: 'black' } },
-        { text: "Aspiring Software/Web Developer.", style: { color: 'black' } }
+        { text: "Aspiring Software / Web Developer.", style: { color: 'black' } }
     ];
 
     return (

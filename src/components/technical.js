@@ -19,7 +19,7 @@ export default function Technical(){
                 <h2>Recent Projects</h2>
                 <div className="cardGroup">
                     <ProjectCard title={"JASS"} description={"Client website for JASS @ UC Davis."} tool={"React.js + Next.js"} img={jass_landing} linkTitle={"In Progress"} linkUrl={"https://github.com/include-davis/jass-ws24"}/>
-                    <ProjectCard title={"Campus Connect"} description={"Social platform for SFSU students to voice community concerns."} tool={"React.js, Node.js, Firebase, mySQL, Sequelize, Express.js"} img={campusconnect_landing} linkTitle={"View Devpost ↗"} linkUrl={"https://devpost.com/software/campusconnect-orenh0"}/>
+                    <ProjectCard title={"CampusConnect"} description={"Social platform for SFSU students to voice community concerns."} tool={"React.js, Node.js, Firebase, mySQL, Sequelize, Express.js"} img={campusconnect_landing} linkTitle={"View Devpost ↗"} linkUrl={"https://devpost.com/software/campusconnect-orenh0"}/>
                 </div>
                 {/* <ProjectCard title={"DECA"} description={"A client website for DECA at UC Davis."} tool={"React.js + Node.js"} img={deca_landing} linkTitle={"In Progress"} linkUrl={"https://github.com/sohamk0524/DECA-information-website"}/> */}
                 {/* <ProjectCard title={"Time-Series Forecasting"} description={"A time-series model that predicts airplane passenger count."} tool={"Python (pandas, seaborn, Matplotlib, Plotly, NumPy, SciPy, statsmodels)"} img={timeseries_landing} linkTitle={"View Presentation ↗"} linkUrl={"https://docs.google.com/presentation/d/13Gn8FUjrlsuypsWgiI9v6VZoiQY8acOq8UMfLgTDu8E/edit?usp=sharing"}/> */}
@@ -30,7 +30,7 @@ export default function Technical(){
             <div className="design" id="design">
                 <h2>My Creative Outlet</h2>
                 <div className="cardGroup">
-                    <ProjectCard title={"Study Paws"} description={"Study application motivating consistent study habits."} tool={"Figma"} img={studypaws} linkTitle={"View Presentation ↗"} linkUrl={"https://docs.google.com/presentation/d/1B5F9787XCpr1xkZUSlaRgM72OGnxXgTO/edit?usp=drive_link"}/>
+                    <ProjectCard title={"StudyPaws"} description={"Study application motivating consistent study habits."} tool={"Figma"} img={studypaws} linkTitle={"View Presentation ↗"} linkUrl={"https://docs.google.com/presentation/d/1B5F9787XCpr1xkZUSlaRgM72OGnxXgTO/edit?usp=drive_link"}/>
                     <ProjectCard title={"Graphic Design"} description={"Drawing personalized logos for users."} tool={"Procreate, Adobe Illustrator"} img={gelsigns} linkTitle={"View Logo Designs ↗"} linkUrl={"https://www.instagram.com/gelsigns"}/>
                 </div>
                 <div className="cardGroup">

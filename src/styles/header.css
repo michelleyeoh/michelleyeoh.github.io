@@ -6,10 +6,19 @@
     top:0;
     overflow: hidden;
     width: 100%;
-    /* background-color: rgba(247, 247, 0247, .3) */
     background: linear-gradient(217deg, #aea08c, rgba(255,0,0,0) 70.71%),
             linear-gradient(127deg, #55607c, rgba(0,255,0,0) 70.71%),
             linear-gradient(336deg, #F7F7F7, rgba(0,0,255,0) 70.71%);
+}
+.header-bg {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    position: fixed;
+    top:0;
+    overflow: hidden;
+    width: 100%;
+    background-color: rgba(247, 247, 0247, .9);
 }
 nav a{
     margin: 10px;

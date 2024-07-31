@@ -1,23 +1,68 @@
-.landing2 {
+.landing-container {
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    overflow: hidden;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+}
+
+.landing2 {
+    position: absolute;
+    /* z-index: 1; */
+    top: 0;
+    left: 0;
     width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     text-align: center;
-    overflow: hidden;
+    opacity: 0;
+    transition: opacity 1s ease-in-out, visibility 1s ease-in-out;
     img {
         width:100vw;
-        
         height:auto;
     }
-    /* @media screen and (min-height:768px){
-        img{
-            width:80vw;
-            height:auto;
+    h1 {
+        color: white;
+        font-size: 130px;
+        @media screen and (max-width:768px){
+            font-size: 60px;
         }
-    } */
+        @media screen and (max-width:375px){
+            font-size: 50px;
+        }
+    }
+    a {
+        font-size: 20px;
+        @media screen and (max-width:768px){
+            font-size: 13px;
+        }
+        @media screen and (max-width:375px){
+            font-size: 10px;
+        }
+    }
 }
+.landing2_text {
+    position: absolute;
+    opacity: 1;
+    line-height: 0;
+    
+}
+  .landing2.fade-out {
+    opacity: 0;
+    /* z-index: 1; */
+    visibility: hidden;
+  }
+  
+  .landing2.fade-in {
+    opacity: 1;
+    visibility: visible;
+    /* z-index: 2; */
+  }
+
 a{
     margin: 10px;
     text-decoration: none;
@@ -27,11 +72,7 @@ a{
 a:hover {
     color: #313F63;
 }
-.landing2_text {
-    position: absolute;
-    opacity: 1;
-    line-height: 0;
-}
+
 .landing{
     @media screen and (max-height:768px){
         img{

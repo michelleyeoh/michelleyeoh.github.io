@@ -6,10 +6,11 @@
     top:0;
     overflow: hidden;
     width: 100%;
-    /* background-color: #120323; */
-    background: linear-gradient(217deg, #869aa5, rgba(219, 195, 195, 0) 70.71%),
+    background-color: rgba(200, 208, 211, 0.93);
+    border-bottom: 1px solid #88847f;
+    /* background: linear-gradient(217deg, #869aa5, rgba(219, 195, 195, 0) 70.71%),
             linear-gradient(127deg, #869aa5, rgba(0,255,0,0) 70.71%),
-            linear-gradient(336deg, #F7F7F7, rgba(0,0,255,0) 70.71%);
+            linear-gradient(336deg, #F7F7F7, rgba(0,0,255,0) 70.71%); */
 }
 .header-bg {
     text-align: center;
@@ -20,6 +21,8 @@
     overflow: hidden;
     width: 100%;
     background-color: rgba(247, 247, 0247, .93);
+    border-bottom: black;
+    border-width: 1px;
 }
 nav a{
     margin: 10px;

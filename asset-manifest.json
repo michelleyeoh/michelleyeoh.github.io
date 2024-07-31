@@ -1,8 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.184c8e00.css",
-    "main.js": "/static/js/main.9812ab5c.js",
+    "main.css": "/static/css/main.d01492ea.css",
+    "main.js": "/static/js/main.741b8b2b.js",
     "static/media/myeoh_profile.png": "/static/media/myeoh_profile.97feb3511b1598cd1073.png",
+    "static/media/landing_design.png": "/static/media/landing_design.a537c63dc26cc6b65472.png",
+    "static/media/landing_technical.png": "/static/media/landing_technical.73a436f78c582a5c6965.png",
     "static/media/jass_landing.png": "/static/media/jass_landing.8a2588ba12c73c478729.png",
     "static/media/scrapbook.png": "/static/media/scrapbook.be8a5c77d3d5b7926e3a.png",
     "static/media/minion_landing.png": "/static/media/minion_landing.23e9ad94cfaced7b2ed3.png",
@@ -12,11 +14,11 @@
     "static/media/gelsigns.png": "/static/media/gelsigns.1cc5e80a0949337a8457.png",
     "static/media/studypaws.png": "/static/media/studypaws.3df964347513da6150db.png",
     "index.html": "/index.html",
-    "main.184c8e00.css.map": "/static/css/main.184c8e00.css.map",
-    "main.9812ab5c.js.map": "/static/js/main.9812ab5c.js.map"
+    "main.d01492ea.css.map": "/static/css/main.d01492ea.css.map",
+    "main.741b8b2b.js.map": "/static/js/main.741b8b2b.js.map"
   },
   "entrypoints": [
-    "static/css/main.184c8e00.css",
-    "static/js/main.9812ab5c.js"
+    "static/css/main.d01492ea.css",
+    "static/js/main.741b8b2b.js"
   ]
 }

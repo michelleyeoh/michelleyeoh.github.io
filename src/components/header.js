@@ -5,7 +5,7 @@ export default function Header(){
 
     const [color, setColor] = useState(false);
     const changeColor = () => {
-        if(window.scrollY >= window.screen.height-115){
+        if(window.scrollY >= window.innerHeight){
             setColor(true)
         } else if (window.location.hash==='#about'){
             setColor(true)

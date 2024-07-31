@@ -11,8 +11,9 @@ export default function About(){
             <div className="leftCol">
                 <img src={myeoh_profile} alt="myeoh_profile"/>
                 <h3>Recent Experiences</h3>
-                <h6><strong>Technical Cohort</strong> at #include<br/><i>January - June 2024</i></h6>
+                <h6><strong>Technical Director</strong> at HackDavis<br/><i>May 2024 - Present</i></h6>
                 {/* <h6><strong>Instructor</strong> at The LEAGUE of Amazing Programmers<br/><i>May 2024 - Present</i></h6> */}
+                <h6><strong>Technical Cohort</strong> at #include<br/><i>January - June 2024</i></h6>
                 <h6><strong>DI Fellowship</strong> at Davis Design Interactive<br/><i>April - May 2024</i></h6>
                 <Link target={"_blank"} to="https://www.linkedin.com/in/myeoh/">
                     <img src={linkedin_icon} alt='linkedin_icon' style={{height:30, paddingRight:10}}/>
@@ -33,9 +34,9 @@ export default function About(){
                 <br/> */}
                 <h2>About Me</h2>
                 <h6>Hello, I’m Michelle!</h6>
-                <h6>I am a first-year at UC Davis with goals to pursue a career in software development. I am currently majoring in <strong>computer science</strong>, with a minor in technology management. </h6>
-                <h6>In addition to computer science, I also have a passion for <strong>UI/UX design</strong>. Sparked by my creative background in graphic design, I have been exploring web and mobile design.</h6>
-                <h6>During my free time I like to spend time outside taking <strong>photos</strong>, studying at <strong>cafes</strong>, and going on <strong>runs</strong>. I am also a big fan of Korean music, so I will always be found listening to music or having a concert in my room…</h6>
+                <h6>I am a second-year at UC Davis with goals to pursue a career in software or web development. I am currently majoring in <strong>computer science</strong>, with a minor in technology management. </h6>
+                <h6>Sparked by my creative background in graphic design, I am also exploring <strong>UI/UX design</strong> for web and mobile devices.</h6>
+                <h6>During my free time I like to spend time outside taking <strong>photos</strong>, studying at <strong>cafes</strong>, and going on <strong>runs</strong>. I also enjoy Korean music, so I will be found either listening to K-Pop or having a concert in my room…</h6>
                 <br/>     
                 
             </div>

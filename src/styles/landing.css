@@ -12,7 +12,7 @@
     align-items: center;
     height: 100vh;
     width: 100%;
-    background: linear-gradient(217deg, #ad9a7e, rgba(255,0,0,0) 70.71%),
-            linear-gradient(127deg, #4c5a7e, rgba(0,255,0,0) 70.71%),
+    background: linear-gradient(217deg, #91a4af, rgba(255,0,0,0) 70.71%),
+            linear-gradient(127deg, #839baa, rgba(0,255,0,0) 70.71%),
             linear-gradient(336deg, #F7F7F7, rgba(0,0,255,0) 70.71%);
 }

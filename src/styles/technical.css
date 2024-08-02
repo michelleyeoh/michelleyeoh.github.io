@@ -12,11 +12,7 @@
 }
 .cardGroup{
     display:flex;
-    flex-direction: row;
     justify-content: center;
-    /* align-content: center; */
-    @media screen and (max-width: 768px) {
-        flex-direction: column;
-    }
+    flex-wrap: wrap;
     width:100%
 }

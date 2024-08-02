@@ -10,6 +10,7 @@ import studypaws from '../images/studypaws.png'
 import lockinoclock_landing from '../images/lockinoclock_landing.png'
 import gelsigns from '../images/gelsigns.png'
 import scrapbook from '../images/scrapbook.png'
+import atmospheric from '../images/atmospheric.png'
 
 export default function Technical(){
     return(
@@ -17,19 +18,13 @@ export default function Technical(){
             <Landing/>
             <div className="technical" id="technical">
                 <h2>Recent Projects</h2>
-                {/* <div className="cardGroup">
-                    <ProjectCard title={"Atmospheric"} description={"iOS app that generates personalized Spotify playlists based on the weather"} tool={"Swift"} img={atmos_landing} linkTitle={"In Progress"} linkUrl={"https://github.com/michelleyeoh/Atmospheric"}/>
-                    <ProjectCard title={"M-Mart"} description={"Ecommerce platform for buyers and sellers."} tool={"Ruby on Rails"} img={mmart_landing} linkTitle={"In Progress"} linkUrl={"https://github.com/michelleyeoh/M-Mart"}/>
-                </div> */}
                 <div className="cardGroup">
+                    <ProjectCard title={"Atmospheric"} description={"iOS app that generates personalized Spotify playlists based on the weather."} tool={"Swift"} img={atmospheric} linkTitle={"In Progress"} linkUrl={"https://github.com/michelleyeoh/Atmospheric"}/>
+                    {/* <ProjectCard title={"M-Mart"} description={"Ecommerce platform for buyers and sellers."} tool={"Ruby on Rails"} img={mmart_landing} linkTitle={"In Progress"} linkUrl={"https://github.com/michelleyeoh/M-Mart"}/> */}
                     <ProjectCard title={"JASS"} description={"Client website for JASS @ UC Davis."} tool={"React.js + Next.js"} img={jass_landing} linkTitle={"In Progress"} linkUrl={"https://github.com/include-davis/jass-ws24"}/>
                     <ProjectCard title={"CampusConnect"} description={"Social platform for SFSU students to voice community concerns."} tool={"React.js, Node.js, Firebase, mySQL, Sequelize, Express.js"} img={campusconnect_landing} linkTitle={"View Devpost ↗"} linkUrl={"https://devpost.com/software/campusconnect-orenh0"}/>
-                </div>
-                <div className="cardGroup">
                     {/* <ProjectCard title={"DECA"} description={"Client website for DECA at UC Davis."} tool={"React.js + Node.js"} img={deca_landing} linkTitle={"In Progress"} linkUrl={"https://github.com/sohamk0524/DECA-information-website"}/> */}
                     <ProjectCard title={"Time-Series Forecasting"} description={"Time-series model that predicts airplane passenger count."} tool={"Python (pandas, seaborn, Matplotlib, Plotly, NumPy, SciPy, statsmodels)"} img={timeseries_landing} linkTitle={"View Presentation ↗"} linkUrl={"https://docs.google.com/presentation/d/13Gn8FUjrlsuypsWgiI9v6VZoiQY8acOq8UMfLgTDu8E/edit?usp=sharing"}/>
-                {/* </div> */}
-                {/* <div className="cardGroup"> */}
                     <ProjectCard title={"Minion Bananaria"} description={"Multi-level restaurant cooking game."} tool={"Java Swing"} img={minion_landing} linkTitle={"View GitHub ↗"} linkUrl={"https://github.com/vidhitapde/MINIONBANANARIA_FINAL"}/>
                 </div>
             </div>
@@ -38,9 +33,7 @@ export default function Technical(){
                 <div className="cardGroup">
                     <ProjectCard title={"StudyPaws"} description={"Study application motivating consistent study habits."} tool={"Figma"} img={studypaws} linkTitle={"View Presentation ↗"} linkUrl={"https://docs.google.com/presentation/d/1B5F9787XCpr1xkZUSlaRgM72OGnxXgTO/edit?usp=drive_link"}/>
                     <ProjectCard title={"Graphic Design"} description={"Drawing personalized logos for users."} tool={"Procreate, Adobe Illustrator"} img={gelsigns} linkTitle={"View Logo Designs ↗"} linkUrl={"https://www.instagram.com/gelsigns"}/>
-                </div>
-                <div className="cardGroup">
-                <ProjectCard title={"Lock In O'Clock"} description={"Helping students find their most compatible study buddy."} tool={"Figma, React.js, Node.js"} img={lockinoclock_landing} linkTitle={"View Devpost ↗"} linkUrl={"https://devpost.com/software/lock-in-o-clock"}/>
+                    <ProjectCard title={"Lock In O'Clock"} description={"Helping students find their most compatible study buddy."} tool={"Figma, React.js, Node.js"} img={lockinoclock_landing} linkTitle={"View Devpost ↗"} linkUrl={"https://devpost.com/software/lock-in-o-clock"}/>
                     <ProjectCard title={"Photo Journaling"} description={"Documenting moments through journal entries."} tool={"Pen, Paper, Stickers"} img={scrapbook}/>
                 </div>
                 

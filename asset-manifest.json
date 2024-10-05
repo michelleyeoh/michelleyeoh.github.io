@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.fce61baf.css",
-    "main.js": "/static/js/main.9ed6f9f0.js",
+    "main.js": "/static/js/main.17e6de3b.js",
     "static/media/myeoh_profile.png": "/static/media/myeoh_profile.97feb3511b1598cd1073.png",
     "static/media/landing_design.png": "/static/media/landing_design.a537c63dc26cc6b65472.png",
     "static/media/landing_technical.png": "/static/media/landing_technical.73a436f78c582a5c6965.png",
@@ -9,6 +9,7 @@
     "static/media/scrapbook.png": "/static/media/scrapbook.be8a5c77d3d5b7926e3a.png",
     "static/media/minion_landing.png": "/static/media/minion_landing.23e9ad94cfaced7b2ed3.png",
     "static/media/lockinoclock_landing.png": "/static/media/lockinoclock_landing.7b59249f1b55d3069883.png",
+    "static/media/deca_landing.png": "/static/media/deca_landing.429c0eecfec9da073fd2.png",
     "static/media/timeseries_landing.png": "/static/media/timeseries_landing.4c2685454da6b98b53ad.png",
     "static/media/campusconnect_landing.png": "/static/media/campusconnect_landing.040248bd45a56ec63c8b.png",
     "static/media/gelsigns.png": "/static/media/gelsigns.1cc5e80a0949337a8457.png",
@@ -16,10 +17,10 @@
     "static/media/atmospheric.png": "/static/media/atmospheric.7f55bd9cad7855b82335.png",
     "index.html": "/index.html",
     "main.fce61baf.css.map": "/static/css/main.fce61baf.css.map",
-    "main.9ed6f9f0.js.map": "/static/js/main.9ed6f9f0.js.map"
+    "main.17e6de3b.js.map": "/static/js/main.17e6de3b.js.map"
   },
   "entrypoints": [
     "static/css/main.fce61baf.css",
-    "static/js/main.9ed6f9f0.js"
+    "static/js/main.17e6de3b.js"
   ]
 }

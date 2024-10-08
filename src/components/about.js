@@ -16,11 +16,15 @@ export default function About(){
                 <h6><strong>Technical Lead</strong> at #include<br/><i>May 2024 - Present</i></h6>
                 <h6><strong>Technical Cohort</strong> at #include<br/><i>January - June 2024</i></h6>
                 <h6><strong>DI Fellowship</strong> at Davis Design Interactive<br/><i>April - May 2024</i></h6>
+                
                 <Link target={"_blank"} to="https://www.linkedin.com/in/myeoh/">
                     <img src={linkedin_icon} alt='linkedin_icon' style={{height:30, paddingRight:10}}/>
                 </Link>
                 <Link target={"_blank"} to="https://github.com/michelleyeoh">
                     <img src={github_icon} alt='github_icon' style={{height:30}}/>
+                </Link>
+                <Link target={"_blank"} to="https://drive.google.com/file/d/1tcA_7jKIphe6C3tbcNgLG_m2IokRYL0X/view?usp=sharing" style={{color: 'black'}}>
+                    <h6>Resume 10/8/24</h6>
                 </Link>
                 
             </div>

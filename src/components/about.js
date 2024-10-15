@@ -23,9 +23,9 @@ export default function About(){
                 <Link target={"_blank"} to="https://github.com/michelleyeoh">
                     <img src={github_icon} alt='github_icon' style={{height:30}}/>
                 </Link>
-                <Link target={"_blank"} to="https://drive.google.com/file/d/1tcA_7jKIphe6C3tbcNgLG_m2IokRYL0X/view?usp=sharing" style={{color: 'black'}}>
+                {/* <Link target={"_blank"} to="https://drive.google.com/file/d/1tcA_7jKIphe6C3tbcNgLG_m2IokRYL0X/view?usp=sharing" style={{color: 'black'}}>
                     <h6>Resume 10/8/24</h6>
-                </Link>
+                </Link> */}
                 
             </div>
             <div className="rightCol">

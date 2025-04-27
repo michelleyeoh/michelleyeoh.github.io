@@ -8,7 +8,7 @@ import timeseries_landing from '../images/timeseries_landing.png'
 import { Landing } from "./landing"
 import studypaws from '../images/studypaws.svg'
 import lockinoclock_landing from '../images/lockinoclock_landing.png'
-import gelsigns from '../images/gelsigns.png'
+import gelsigns from '../images/gelsigns.svg'
 import scrapbook from '../images/scrapbook.png'
 import atmospheric from '../images/atmospheric.svg'
 import fourth_and_hope from '../images/fourth_and_hope.png'

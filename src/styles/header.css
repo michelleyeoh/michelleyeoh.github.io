@@ -1,7 +1,7 @@
 .header2 {
     padding: 10px;
     position: fixed;
-    top:0;
+    top: 0;
     overflow: hidden;
     width: 100%;
     border-bottom: 1px solid #88847f;
@@ -9,7 +9,7 @@
     opacity: 0.90;
     z-index: 1;
     justify-content: space-between;
-    display:flex;
+    display: flex;
     align-items: center;
     text-align: center;
 }
@@ -17,11 +17,21 @@
 .header2_center {
     align-items: center;
     justify-content: center;
-    flex: 1;
+    /* flex: 1; */
     display: flex;
-    @media screen and (max-width: 768px) {
-        display: none;
+
+    img {
+        height: 40px;
+
+        @media screen and (max-width: 540px) {
+            height: 35px;
+        }
     }
+
+    a {
+        margin: 0;
+    }
+
 }
 
 .header2_right {
@@ -30,8 +40,20 @@
     align-items: center;
     justify-content: flex-end;
     padding-right: 25px;
+
     img {
         height: 20px;
+    }
+
+    @media screen and (max-width: 540px) {
+        display: none;
+    }
+
+}
+
+.mobile_removed {
+    @media screen and (max-width: 540px) {
+        display: none;
     }
 }
 
@@ -46,7 +68,7 @@
     padding-top: 20px;
     padding-bottom: 20px;
     position: fixed;
-    top:0;
+    top: 0;
     overflow: hidden;
     width: 100%;
     background-color: rgba(200, 208, 211, 0.93);
@@ -55,21 +77,24 @@
             linear-gradient(127deg, #869aa5, rgba(0,255,0,0) 70.71%),
             linear-gradient(336deg, #F7F7F7, rgba(0,0,255,0) 70.71%); */
 }
+
 .header-bg {
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
     position: fixed;
-    top:0;
+    top: 0;
     overflow: hidden;
     width: 100%;
     background-color: rgba(247, 247, 0247, .93);
 }
-nav a{
+
+nav a {
     margin: 10px;
     text-decoration: none;
     color: black;
 }
+
 nav a:hover {
     color: #313F63;
     text-decoration: underline;

@@ -1,13 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.6419af81.css",
-    "main.js": "/static/js/main.ae2d0d94.js",
+    "main.css": "/static/css/main.b724847a.css",
+    "main.js": "/static/js/main.70627ccf.js",
     "static/media/myeoh_profile.png": "/static/media/myeoh_profile.97feb3511b1598cd1073.png",
-    "static/media/landing_design.png": "/static/media/landing_design.a537c63dc26cc6b65472.png",
     "static/media/gelsigns.svg": "/static/media/gelsigns.ab2b08642275e6b2967bf9421f315400.svg",
     "static/media/atmospheric.svg": "/static/media/atmospheric.6a8fba5205393e4b76e44c6a9d383531.svg",
     "static/media/judging.svg": "/static/media/judging.f4d86ce93b660b1a1f45257a80f0fba9.svg",
-    "static/media/landing_technical.png": "/static/media/landing_technical.73a436f78c582a5c6965.png",
     "static/media/fourth_and_hope.png": "/static/media/fourth_and_hope.c148bc3c15d679c30548.png",
     "static/media/hackdavis2025.png": "/static/media/hackdavis2025.02d23ae6d269a609297d.png",
     "static/media/studypaws.svg": "/static/media/studypaws.d536dbf51df9343cdb8ebf130e9801e1.svg",
@@ -20,11 +18,11 @@
     "static/media/timeseries_landing.png": "/static/media/timeseries_landing.4c2685454da6b98b53ad.png",
     "static/media/campusconnect_landing.png": "/static/media/campusconnect_landing.040248bd45a56ec63c8b.png",
     "index.html": "/index.html",
-    "main.6419af81.css.map": "/static/css/main.6419af81.css.map",
-    "main.ae2d0d94.js.map": "/static/js/main.ae2d0d94.js.map"
+    "main.b724847a.css.map": "/static/css/main.b724847a.css.map",
+    "main.70627ccf.js.map": "/static/js/main.70627ccf.js.map"
   },
   "entrypoints": [
-    "static/css/main.6419af81.css",
-    "static/js/main.ae2d0d94.js"
+    "static/css/main.b724847a.css",
+    "static/js/main.70627ccf.js"
   ]
 }

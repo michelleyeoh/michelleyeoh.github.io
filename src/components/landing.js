@@ -41,14 +41,15 @@ export function Landing() {
     //     </div>
     // );
     const textArray = [
-        { text: "Hello! 👋", style: { color: '#827057' } },
         { text: "I'm Michelle Yeoh.", style: { color: 'black' } },
         { text: "Aspiring Software Developer.", style: { color: 'black' } }
+
     ];
 
     return (
         <div className="landing">
             <h2 style={{ color: 'black' }}>
+                <div style={{ color: '#827057' }}>Hello! 👋</div>
                 <Typewriter textArray={textArray} delay={50} lineDelay={150} />
             </h2>
             <a href="#technical">

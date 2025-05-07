@@ -42,7 +42,7 @@ export function Landing() {
     // );
     const textArray = [
         { text: "I'm Michelle Yeoh.", style: { color: 'black' } },
-        { text: "Aspiring Software Developer.", style: { color: 'black' } }
+        { text: "Aspiring <Software Developer/>", style: { color: 'black' } }
 
     ];
 

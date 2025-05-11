@@ -14,7 +14,7 @@ export default function About() {
                     <h6>Hello, I’m Michelle!</h6>
                     <h6>I am a second-year at UC Davis with goals to pursue a career in software development. I am currently majoring in <strong>computer science</strong>, with a minor in technology management. </h6>
                     <h6>I have several years of experience in <strong>full-stack</strong> web development through various opportunities on campus such as HackDavis, #include, and creating websites for clubs. In addition, I have a creative background in graphic design and am also exploring <strong>UI/UX design</strong> for web and mobile devices.</h6>
-                    <h6>During my free time, I like to spend time outside taking <strong>photos</strong>, studying at <strong>cafes</strong>, and going on <strong>runs</strong>. I also enjoy Korean music, so I will be found either listening to K-pop or having a solo concert in my room…</h6>
+                    <h6>During my free time, I like to spend time outside taking <strong>photos</strong>, studying at <strong>cafes</strong>, and going on <strong>runs</strong>. I also enjoy music, so I will be found either listening to K-pop or having a solo concert in my room…</h6>
                     {/* <br /> */}
                 </div>
                 <div className="half">

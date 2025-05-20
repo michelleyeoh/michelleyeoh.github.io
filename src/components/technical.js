@@ -13,6 +13,7 @@ import scrapbook from '../images/scrapbook.png'
 import atmospheric from '../images/atmospheric.svg'
 import fourth_and_hope from '../images/fourth_and_hope.png'
 import hackdavis2025 from '../images/hackdavis2025.png'
+import include_cohort from '../images/include_cohort.png'
 import hackerhub from '../images/hackerhub.png'
 import judge from '../images/judging.svg'
 
@@ -27,6 +28,7 @@ export default function Technical() {
                     <ProjectCard title={"HackDavis HackerHub"} description={"All-things a hacker needs for HackDavis 2025."} img={hackerhub} linkUrl={"https://hub.hackdavis.io/"} />
                     <ProjectCard title={"HackDavis 2025"} description={"HackDavis 2025 Website."} img={hackdavis2025} linkUrl={"https://hackdavis.io/"} />
                     <ProjectCard title={"Fourth and Hope"} description={"Client website for Fourth and Hope."} img={fourth_and_hope} linkUrl={"https://fourth-and-hope-demo.vercel.app/"} />
+                    <ProjectCard title={"#include Technical Cohort"} description={"Timeline and resources for #include tech cohorts."} img={include_cohort} linkUrl={"https://cohort.includedavis.com/"} />
                     <ProjectCard title={"Atmospheric"} description={"iOS app that generates personalized Spotify playlists based on the weather."} tool={"Swift"} img={atmospheric} linkTitle={"In Progress"} linkUrl={"https://github.com/michelleyeoh/Atmospheric"} />
                     {/* <ProjectCard title={"M-Mart"} description={"Ecommerce platform for buyers and sellers."} tool={"Ruby on Rails"} img={mmart_landing} linkTitle={"In Progress"} linkUrl={"https://github.com/michelleyeoh/M-Mart"}/> */}
                     <ProjectCard title={"JASS @ UC Davis"} description={"Client website for JASS @ UC Davis."} tool={"React.js + Next.js"} img={jass_landing} linkTitle={"In Progress"} linkUrl={"https://jassucd.vercel.app/"} />

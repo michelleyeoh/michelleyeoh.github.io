@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.cb1be553.css",
-    "main.js": "/static/js/main.a7780405.js",
+    "main.js": "/static/js/main.a4f52da1.js",
     "static/media/myeoh_profile.png": "/static/media/myeoh_profile.97feb3511b1598cd1073.png",
     "static/media/gelsigns.svg": "/static/media/gelsigns.ab2b08642275e6b2967bf9421f315400.svg",
     "static/media/atmospheric.svg": "/static/media/atmospheric.6a8fba5205393e4b76e44c6a9d383531.svg",
@@ -10,6 +10,7 @@
     "static/media/hackdavis2025.png": "/static/media/hackdavis2025.02d23ae6d269a609297d.png",
     "static/media/studypaws.svg": "/static/media/studypaws.d536dbf51df9343cdb8ebf130e9801e1.svg",
     "static/media/jass_landing.png": "/static/media/jass_landing.8a2588ba12c73c478729.png",
+    "static/media/include_cohort.png": "/static/media/include_cohort.841fccf4323724a73321.png",
     "static/media/hackerhub.png": "/static/media/hackerhub.15257f0c57a5ed56c1c2.png",
     "static/media/scrapbook.png": "/static/media/scrapbook.be8a5c77d3d5b7926e3a.png",
     "static/media/minion_landing.png": "/static/media/minion_landing.23e9ad94cfaced7b2ed3.png",
@@ -19,10 +20,10 @@
     "static/media/campusconnect_landing.png": "/static/media/campusconnect_landing.040248bd45a56ec63c8b.png",
     "index.html": "/index.html",
     "main.cb1be553.css.map": "/static/css/main.cb1be553.css.map",
-    "main.a7780405.js.map": "/static/js/main.a7780405.js.map"
+    "main.a4f52da1.js.map": "/static/js/main.a4f52da1.js.map"
   },
   "entrypoints": [
     "static/css/main.cb1be553.css",
-    "static/js/main.a7780405.js"
+    "static/js/main.a4f52da1.js"
   ]
 }

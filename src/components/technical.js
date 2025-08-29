@@ -1,7 +1,8 @@
 import "../styles/technical.css"
 import { ProjectCard } from "./projectCard"
 import jass_landing from '../images/jass_landing.png'
-import deca_landing from '../images/deca_landing.png'
+// import deca_landing from '../images/deca_landing.png'
+import wics from '../images/wics.png'
 import campusconnect_landing from '../images/campusconnect_landing.png'
 import minion_landing from '../images/minion_landing.png'
 import timeseries_landing from '../images/timeseries_landing.png'
@@ -41,6 +42,7 @@ export default function Technical() {
             <div className="design" id="design">
                 <h2>My Creative Outlet</h2>
                 <div className="cardGroup">
+                    <ProjectCard title={"WiCS Website"} description={"Davis Women in Computer Science Website."} img={wics} linkUrl={"https://www.figma.com/proto/McS8J6SYMzo3qb3YVGViSs/-FINALIZED--WiCS-Website?node-id=0-1&t=FRjVYy8PlYsAOsKJ-1"} />
                     <ProjectCard title={"StudyPaws"} description={"Study application motivating consistent study habits."} tool={"Figma"} img={studypaws} linkTitle={"View Presentation ↗"} linkUrl={"https://docs.google.com/presentation/d/1B5F9787XCpr1xkZUSlaRgM72OGnxXgTO/edit?usp=drive_link"} />
                     <ProjectCard title={"Lock In O'Clock"} description={"Helping students find their most compatible study buddy."} tool={"Figma, React.js, Node.js"} img={lockinoclock_landing} linkTitle={"View Devpost ↗"} linkUrl={"https://devpost.com/software/lock-in-o-clock"} />
                     <ProjectCard title={"Graphic Design"} description={"Drawing personalized logos for users."} tool={"Procreate, Adobe Illustrator"} img={gelsigns} linkTitle={"View Logo Designs ↗"} linkUrl={"https://www.instagram.com/gelsigns"} />

@@ -28,7 +28,7 @@ h2{
   font-weight: lighter;
   color: #827057;
   @media screen and (max-width: 768px){
-    font-size: 30px;
+    font-size: 25px;
   }
 }
 
@@ -45,7 +45,7 @@ h4{
   font-size: 29px;
   font-weight: lighter;
   /* line-height: 12px; */
-  @media screen and (max-width: 767px){
+  @media screen and (max-width: 768px){
     font-size: 23px;
     /* line-height: 10px; */
   }

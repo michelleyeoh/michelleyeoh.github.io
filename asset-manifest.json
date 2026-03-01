@@ -1,29 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.412a7098.css",
-    "main.js": "/static/js/main.c49d166f.js",
+    "main.css": "/static/css/main.dfb77617.css",
+    "main.js": "/static/js/main.3b907f1f.js",
     "static/media/wics.png": "/static/media/wics.36a68ce6b8fbe2548642.png",
     "static/media/myeoh_profile.png": "/static/media/myeoh_profile.97feb3511b1598cd1073.png",
     "static/media/gelsigns.svg": "/static/media/gelsigns.ab2b08642275e6b2967bf9421f315400.svg",
+    "static/media/hub2026.png": "/static/media/hub2026.82f4b49b9fea519326ca.png",
     "static/media/atmospheric.svg": "/static/media/atmospheric.6a8fba5205393e4b76e44c6a9d383531.svg",
-    "static/media/judging.svg": "/static/media/judging.f4d86ce93b660b1a1f45257a80f0fba9.svg",
+    "static/media/judging2025.svg": "/static/media/judging2025.f4d86ce93b660b1a1f45257a80f0fba9.svg",
+    "static/media/hackdavis2026.png": "/static/media/hackdavis2026.7e792eb570e761ef9a9a.png",
     "static/media/fourth_and_hope.png": "/static/media/fourth_and_hope.c148bc3c15d679c30548.png",
+    "static/media/hd_admissions.png": "/static/media/hd_admissions.2a21c55a01d8870e04d7.png",
+    "static/media/findmyconcert.png": "/static/media/findmyconcert.57abe541f6c0fce9817b.png",
     "static/media/hackdavis2025.png": "/static/media/hackdavis2025.02d23ae6d269a609297d.png",
     "static/media/studypaws.svg": "/static/media/studypaws.d536dbf51df9343cdb8ebf130e9801e1.svg",
     "static/media/jass_landing.png": "/static/media/jass_landing.8a2588ba12c73c478729.png",
     "static/media/include_cohort.png": "/static/media/include_cohort.841fccf4323724a73321.png",
-    "static/media/hackerhub.png": "/static/media/hackerhub.15257f0c57a5ed56c1c2.png",
-    "static/media/scrapbook.png": "/static/media/scrapbook.be8a5c77d3d5b7926e3a.png",
+    "static/media/hub2025.png": "/static/media/hub2025.15257f0c57a5ed56c1c2.png",
     "static/media/minion_landing.png": "/static/media/minion_landing.23e9ad94cfaced7b2ed3.png",
     "static/media/lockinoclock_landing.png": "/static/media/lockinoclock_landing.7b59249f1b55d3069883.png",
     "static/media/timeseries_landing.png": "/static/media/timeseries_landing.4c2685454da6b98b53ad.png",
     "static/media/campusconnect_landing.png": "/static/media/campusconnect_landing.040248bd45a56ec63c8b.png",
     "index.html": "/index.html",
-    "main.412a7098.css.map": "/static/css/main.412a7098.css.map",
-    "main.c49d166f.js.map": "/static/js/main.c49d166f.js.map"
+    "main.dfb77617.css.map": "/static/css/main.dfb77617.css.map",
+    "main.3b907f1f.js.map": "/static/js/main.3b907f1f.js.map"
   },
   "entrypoints": [
-    "static/css/main.412a7098.css",
-    "static/js/main.c49d166f.js"
+    "static/css/main.dfb77617.css",
+    "static/js/main.3b907f1f.js"
   ]
 }

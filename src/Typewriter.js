@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 
 function Typewriter({ textArray, delay, lineDelay }) {
     const [displayText, setDisplayText] = useState("");

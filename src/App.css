@@ -60,3 +60,7 @@ h6{
   font-size: 16px;
   font-weight: lighter;
 }
+
+h6 strong, h6 b {
+  font-weight: bold; 
+}

@@ -90,6 +90,13 @@ a:hover {
         }
     }
 
+    /* specific to landing page */
+    @media screen and (max-width: 768px){
+        h2 {
+            font-size: 25px; 
+        }
+    }
+
     display: flex;
     flex-direction: column;
     justify-content: center;

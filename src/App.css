@@ -28,7 +28,7 @@ h2{
   font-weight: lighter;
   color: #827057;
   @media screen and (max-width: 768px){
-    font-size: 25px;
+    font-size: 30px;
   }
 }
 

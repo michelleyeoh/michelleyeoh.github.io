@@ -35,7 +35,7 @@ export default function Technical() {
                         <ProjectCard title={"HackDavis Admissions Portal"} description={"Apply, manage, & send application decisions for HackDavis 2026."} img={hd_admissions} linkUrl={"https://apply.hackdavis.io/"} />
                         <ProjectCard title={"HackDavis HackerHub"} description={"Resources, information, & live judging process for hackers."} img={hub2026} linkUrl={"https://hub.hackdavis.io/"} />
                         <ProjectCard title={"HackDavis 2026"} description={"HackDavis 2026 Website: 10-year edition."} img={hackdavis2026} linkUrl={"https://hackdavis.io/"} />
-                        <ProjectCard title={"Find My Concert"} description={"Work in Progress..."} img={findmyconcert} linkUrl={"https://github.com/michelleyeoh/findmyconcert"} />
+                        <ProjectCard title={"Find My Concert"} description={"Work in Progress..."} img={findmyconcert} linkUrl={"https://find-my-concert.vercel.app/"} />
                         <ProjectCard title={"HackDavis Judging App"} description={"Judging app for HackDavis 2025."} img={judging2025} linkUrl={"https://hub.hackdavis.io/judges"} />
                         <ProjectCard title={"HackDavis HackerHub"} description={"All-things a hacker needs for HackDavis 2025."} img={hub2025} linkUrl={"https://hub.hackdavis.io/"} />
                         <ProjectCard title={"HackDavis 2025"} description={"HackDavis 2025 Website: music & beach theme."} img={hackdavis2025} linkUrl={"https://2025.hackdavis.io/"} />

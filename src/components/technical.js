@@ -11,13 +11,14 @@ import { Landing } from "./landing"
 import studypaws from '../images/studypaws.svg'
 import lockinoclock_landing from '../images/lockinoclock_landing.png'
 import gelsigns from '../images/gelsigns.svg'
-// import scrapbook from '../images/scrapbook.png'
+// import scrapbook from '../images/scrapbook.svg'
 import atmospheric from '../images/atmospheric.svg'
 import fourth_and_hope from '../images/fourth_and_hope.png'
 import include_cohort from '../images/include_cohort.png'
 import hackdavis2025 from '../images/hackdavis2025.png'
 // import hub2025 from '../images/hub2025.png'
-import judging2025 from '../images/judging2025.svg'
+// import judging2025 from '../images/judging2025.svg'
+import judging2026 from '../images/judging2026.svg'
 import hackdavis2026 from '../images/hackdavis2026.png'
 import hub2026 from '../images/hub2026.png'
 import hd_admissions from '../images/hd_admissions.png'
@@ -36,7 +37,7 @@ export default function Technical() {
                         <ProjectCard title={"HackDavis HackerHub"} description={"Resources, information, & live judging process for hackers."} img={hub2026} linkUrl={"https://hub.hackdavis.io/"} />
                         <ProjectCard title={"HackDavis 2026"} description={"HackDavis 2026 Website: 10-year edition."} img={hackdavis2026} linkUrl={"https://hackdavis.io/"} />
                         <ProjectCard title={"Find My Concert"} description={"Search for concerts near you!"} img={findmyconcert} linkUrl={"https://github.com/michelleyeoh/findmyconcert"} />
-                        <ProjectCard title={"HackDavis Judging App"} description={"Judge, score, & rank hackers' project submissions."} img={judging2025} linkUrl={"https://hub.hackdavis.io/judges"} />
+                        <ProjectCard title={"HackDavis Judging App"} description={"Judge, score, & rank hackers' project submissions."} img={judging2026} linkUrl={"https://hub.hackdavis.io/judges"} />
                         {/* <ProjectCard title={"HackDavis HackerHub"} description={"All-things a hacker needs for HackDavis 2025."} img={hub2025} linkUrl={"https://hub.hackdavis.io/"} /> */}
                         <ProjectCard title={"HackDavis 2025"} description={"HackDavis 2025 Website."} img={hackdavis2025} linkUrl={"https://2025.hackdavis.io/"} />
                         <ProjectCard title={"Fourth and Hope"} description={"Client website for Fourth and Hope."} img={fourth_and_hope} linkUrl={"https://fourth-and-hope-demo.vercel.app/"} />

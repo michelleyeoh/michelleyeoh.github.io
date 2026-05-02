@@ -1,7 +1,7 @@
 .about {
     display: flex;
     flex-direction: column;
-    padding: 90px 20%;
+    padding: 90px 18%;
 }
 
 .container {

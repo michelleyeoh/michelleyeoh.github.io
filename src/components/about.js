@@ -20,6 +20,7 @@ export default function About() {
                     </div>
                     <div className="half">
                         <h3>Recent Experiences</h3>
+                        <h6><strong>Software Engineer</strong> at AggieWorks<br /><i>April 2026 - Present</i></h6>
                         <h6><strong>Software Development Engineer Intern</strong> at Amazon Web Services<br /><i>Summer 2025</i></h6>
                         <h6><strong>Technical Lead</strong> at HackDavis<br /><i>April 2025 - Present</i> <br /> - <br /> <strong>Technical Director</strong> at HackDavis<br /><i>June 2024 - April 2024</i></h6>
                         <h6><strong>Technical Lead</strong> at #include<br /><i>May 2024 - March 2025</i> <br /> - <br /> <strong>Technical Cohort</strong> at #include<br /><i>January - June 2024</i></h6>

@@ -21,6 +21,17 @@
     object-fit: contain;
 }
 
+.experience {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+}
+
+.experience img {
+  height: 40px;
+  border-radius: 3px;
+}
+
 @media screen and (max-width:768px) {
     .profile {
         width: 65%;

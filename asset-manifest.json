@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.6731b561.css",
-    "main.js": "/static/js/main.0ce37b19.js",
+    "main.css": "/static/css/main.a82cf3ad.css",
+    "main.js": "/static/js/main.47a55115.js",
     "static/media/wics.png": "/static/media/wics.36a68ce6b8fbe2548642.png",
     "static/media/findmyconcert.png": "/static/media/findmyconcert.8f7cddbc0b2ea7eda033.png",
     "static/media/hub2026.png": "/static/media/hub2026.f2dfee135d489cc3d6cb.png",
@@ -20,11 +20,11 @@
     "static/media/lockinoclock_landing.png": "/static/media/lockinoclock_landing.7b59249f1b55d3069883.png",
     "static/media/campusconnect_landing.png": "/static/media/campusconnect_landing.040248bd45a56ec63c8b.png",
     "index.html": "/index.html",
-    "main.6731b561.css.map": "/static/css/main.6731b561.css.map",
-    "main.0ce37b19.js.map": "/static/js/main.0ce37b19.js.map"
+    "main.a82cf3ad.css.map": "/static/css/main.a82cf3ad.css.map",
+    "main.47a55115.js.map": "/static/js/main.47a55115.js.map"
   },
   "entrypoints": [
-    "static/css/main.6731b561.css",
-    "static/js/main.0ce37b19.js"
+    "static/css/main.a82cf3ad.css",
+    "static/js/main.47a55115.js"
   ]
 }
